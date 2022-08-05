@@ -22,7 +22,7 @@
 <!-- CONTACT -->
 ## Contact
 
-AYOUB EL ASRI - [@Ayoub El Asri](https://www.facebook.com/el.asriiii/) - elasri.ayoub@yahoo.com
+AYOUB EL ASRI - elasri.ayoub@yahoo.com
 
 Project Link: [https://https://github.com/ElasriAyoub/ECG-Signal-Processing-LabView-Arduino/](https://https://github.com/ElasriAyoub/ECG-Signal-Processing-LabView-Arduino/)
 
